@@ -5,7 +5,8 @@ const Home = () => (
   <div className="container">
     <header>
       <h1>Universal Link</h1>
-      <Link to="/buyVoucher">Buy Voucher</Link>
+      <a href="https://universal.nogu.dev/buyVoucher">Buy Voucher</a>
+      {/* <Link to="/buyVoucher">Buy Voucher</Link> */}
     </header>
   </div>
 );
