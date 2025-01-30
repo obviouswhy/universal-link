@@ -23,7 +23,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/buyVoucher" element={<BuyVoucher />} />
+        <Route path="/buy-voucher" element={<BuyVoucher />} />
       </Routes>
     </BrowserRouter>
   );
