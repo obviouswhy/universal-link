@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "C5TUJ8526Z.dev.nogu.universal",
+        "paths": ["/buy-voucher"]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": ["C5TUJ8526Z.dev.nogu.universal"]
+  },
+  "webcredentials": {
+    "apps": ["C5TUJ8526Z.dev.nogu.universal"]
+  }
+}
