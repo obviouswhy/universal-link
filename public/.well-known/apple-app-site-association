@@ -1,17 +1,19 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "C5TUJ8526Z.universal.nogu.dev",
-        "paths": ["/buy-voucher"]
+        "appIDs": [
+          "C5TUJ8526Z.universal.nogu.dev"
+        ],
+        "components": [
+          {
+            "/": "/buy-voucher/*",
+            "?": {
+              "fromVoucherResult": "?*"
+            }
+          }
+        ]
       }
     ]
-  },
-  "activitycontinuation": {
-    "apps": ["C5TUJ8526Z.universal.nogu.dev"]
-  },
-  "webcredentials": {
-    "apps": ["C5TUJ8526Z.universal.nogu.dev"]
   }
 }
