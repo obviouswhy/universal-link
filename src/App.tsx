@@ -6,6 +6,7 @@ const Home = () => (
     <header>
       <h1>Universal Link</h1>
       <a href="https://universal.nogu.dev/">Home</a>
+      <br />
       <a href="https://universal.nogu.dev/buy-voucher?fromVoucherResult=true">Buy Voucher</a>
       {/* <Link to="/buyVoucher">Buy Voucher</Link> */}
     </header>
