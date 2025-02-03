@@ -7,10 +7,8 @@
         ],
         "components": [
           {
-            "/": "/buy-voucher/*",
-            "?": {
-              "fromVoucherResult": "?*"
-            }
+            "/": "*",
+            "comment": "Matches all routes"
           }
         ]
       }
