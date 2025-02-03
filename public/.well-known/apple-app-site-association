@@ -15,5 +15,15 @@
         ]
       }
     ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "C5TUJ8526Z.universal.nogu.dev"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "C5TUJ8526Z.universal.nogu.dev"
+    ]
   }
 }
