@@ -10,6 +10,12 @@
           {
             "/": "*",
             "comment": "Matches all routes"
+          },
+          {
+            "/": "/buy-voucher/*",
+            "?": {
+              "fromVoucherResult": "?*"
+            }
           }
         ]
       }
