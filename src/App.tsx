@@ -26,6 +26,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/buy-voucher" element={<BuyVoucher />} />
+        <Route path="/nobeoka/d85809973720456a2f0f61f0bff94d94" element={<BuyVoucher />} />
+        <Route path="/nobeoka/12312312" element={<BuyVoucher />} />
       </Routes>
     </BrowserRouter>
   );
